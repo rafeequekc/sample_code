@@ -15,6 +15,7 @@ int main(){
     printf(" I amde 4th change here %s\n", name);
     printf(" I amde 5th change here %s\n", name);
     printf(" I amde 6th change here %s\n", name);
+    printf(" I amde 7th change here %s\n", name);
     return 0;
 }
 
