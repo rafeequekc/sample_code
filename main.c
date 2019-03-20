@@ -10,6 +10,7 @@ const char * name = "Unknown";
 int main(){
     printf(" My name is %s\n", name);
     printf(" I amde change here %s\n", name);
+    printf(" I amde 2nd change here %s\n", name);
     return 0;
 }
 
