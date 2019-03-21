@@ -20,6 +20,7 @@ int main(){
     printf(" I amde 9th change here %s\n", name);
     printf(" I amde 10th change here %s\n", name);
     printf(" Swamy made 12th change here %s\n", name);
+    printf(" 1 made 13th change here %s\n", name);
     
     return 0;
 }
